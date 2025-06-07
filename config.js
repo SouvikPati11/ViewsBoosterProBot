@@ -1,4 +1,4 @@
 module.exports = {
-  adminId: 'YOUR_TELEGRAM_USER_ID', // Replace this
-  botToken: 'YOUR_BOT_TOKEN'        // Replace with your bot token
+  adminId: '5325612831', // Replace this
+  botToken: '6337963243:AAFe9a4A835QoDWiFa50VRGIR6y9ohnQyHA'        // Replace with your bot token
 };

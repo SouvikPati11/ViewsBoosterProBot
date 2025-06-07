@@ -52,9 +52,9 @@ module.exports = (bot) => {
       // Call n1panel API (Replace API_KEY and SERVICE_ID)
       try {
         const orderRes = await axios.post('https://n1panel.com/api/v2', {
-          key: 'YOUR_API_KEY',
+          key: '106882239b9d2c8d7875585ceb10d266',
           action: 'add',
-          service: 'SERVICE_ID_FOR_VIEWS',
+          service: '3183',
           link: ctx.session.postLink,
           quantity: amount
         });
